@@ -39,7 +39,8 @@ orders.csv
 order_details.csv  
 pizzas.csv  
 pizza_types.csv  
-questions.txt  
+questions.txt
+Pizza_Shop_Query.sql
 README.md  
 ```
 
