@@ -36,7 +36,8 @@ This project uses 4 datasets:
 
 ```
 orders.csv  
-order_details.csv  
+order_details.csv
+pizza_analysis.sql
 pizzas.csv  
 pizza_types.csv  
 questions.txt
